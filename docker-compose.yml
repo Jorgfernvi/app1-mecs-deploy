@@ -6,6 +6,6 @@
      ports:
        - 8000:8000
    websimple:
-     image: jorgfernvi/websimple
+     image: jorgfernvi/websimpleprueba
      ports:
        - 8080:80
